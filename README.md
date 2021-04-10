@@ -8,7 +8,7 @@ I like experimenting with new technologies and keep learning about web stuff. </
 <!-- I have more than 2 years of hands-on experience and 1 and a half year of professional experience. -->
 <p>
 You want to check my work? You can view my portfolio right 
-<a href='https://mjohar30.github.io/Portafolio/'>here.</a>
+<a href='https://mariojohar.dev/'>here.</a>
 <p>
 <!-- --> 
 <details>
