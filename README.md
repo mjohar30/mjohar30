@@ -5,7 +5,6 @@
 I'm a front-end developer with knowledge in MERN stack. 
 I like experimenting with new technologies and keep learning about web stuff. </p>
 <p>I'm currently designing and developing a site about Call of Duty Zombies of which you will have news soon.</p>
-<!-- I have more than 2 years of hands-on experience and 1 and a half year of professional experience. -->
 <p>
 You want to check my work? You can view my portfolio right 
 <a href='https://mariojohar.dev/'>here.</a>
@@ -24,6 +23,5 @@ You want to check my work? You can view my portfolio right
 <p align="center">Let's connect and chat!</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/mariojohar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/JoharGp" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 <p align="center">May the force be with you</p>
